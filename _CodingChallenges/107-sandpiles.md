@@ -32,6 +32,12 @@ contributions:
       url: "https://fraguilar.com"
     url: "https://github.com/fernand0aguilar/art-code-poetry/blob/master/Processing/Sandpiles/"
     source: "https://github.com/fernand0aguilar/art-code-poetry/blob/master/Processing/Sandpiles/Sandpiles.pde"
+  - title: "Sandpiles with High Intensity&copy"
+    author:
+      name: "Kevin Fredericks"
+      url: "https://github.com/snoogans775"
+    url: "https://www.openprocessing.org/sketch/765701"
+    source: "https://github.com/snoogans775/processing-playground/tree/master/sandpiles/sandpiles_v4"
 ---
 
 In this coding challenge, inspired by Numberphile I visualize "sandpiles" with Processing (Java). 
